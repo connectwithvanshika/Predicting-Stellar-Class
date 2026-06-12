@@ -12,7 +12,7 @@ Using photometric measurements, redshift values, and spectral information, the g
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains observations collected from astronomical surveys and includes:
 
@@ -34,7 +34,7 @@ The dataset contains observations collected from astronomical surveys and includ
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Given astronomical observations, predict the correct celestial object category.
 
@@ -46,7 +46,7 @@ This is a **multi-class classification problem** where the target classes are:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
@@ -59,7 +59,7 @@ This is a **multi-class classification problem** where the target classes are:
 
 ---
 
-## 🔍 Project Workflow
+## Project Workflow
 
 ### 1. Data Exploration
 
@@ -95,7 +95,7 @@ This is a **multi-class classification problem** where the target classes are:
 
 ---
 
-## 📈 Results
+## Results
 
 The model successfully learns astronomical patterns from photometric and spectral features to classify celestial objects with high accuracy.
 
@@ -108,7 +108,7 @@ Key predictive signals include:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 ├── train.csv
@@ -120,7 +120,7 @@ Key predictive signals include:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Clone Repository
 
@@ -144,7 +144,7 @@ jupyter notebook
 
 ---
 
-## 🌠 Real-World Applications
+## Real-World Applications
 
 * Astronomical object classification
 * Sky survey analysis
@@ -154,7 +154,7 @@ jupyter notebook
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Vanshika Yadav**
 
@@ -167,4 +167,4 @@ GitHub: https://github.com/connectwithvanshika
 
 ---
 
-### ⭐ If you found this project useful, consider giving the repository a star!
+### If you found this project useful, consider giving the repository a star!
